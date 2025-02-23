@@ -166,7 +166,7 @@ function App() {
                 Streamline your operations and enhance business relationships.
               </p>
               <a
-                href="/connectedness"
+                href="https://universe-inky.vercel.app/"
                 className="inline-flex items-center gap-2 bg-black text-white px-6 py-3 rounded-lg hover:bg-opacity-80 transition-all duration-300"
               >
                 Access Tool <Link className="w-4 h-4" />
