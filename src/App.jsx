@@ -144,7 +144,7 @@ function App() {
                 Built to provide you with the confidence you need to drive success.
               </p>
               <a
-                href="/enablers"
+                href="https://semiml-auto.streamlit.app/"
                 className="inline-flex items-center gap-2 bg-[#f5e003] text-black px-6 py-3 rounded-lg hover:bg-[#e5b611] transition-all duration-300"
               >
                 Access Tool <Link className="w-4 h-4" />
